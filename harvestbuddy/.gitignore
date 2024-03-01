@@ -1,0 +1,8 @@
+__pycache__/
+*.env
+data/crop_images/
+data/weather_data/
+notebooks/*.ipynb_checkpoints/
+models/*.h5
+web_dashboard/node_modules/
+web_dashboard/build/
